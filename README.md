@@ -1,7 +1,5 @@
 # Harvard
 Refazendo cursos de programação, data science e IA com foco em python.
-
-
 # ━━━━━━━━━❮Cursos❯━━━━━━━━━
 
 CS50's Introduction to Artificial Intelligence with Python
